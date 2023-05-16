@@ -1,16 +1,16 @@
-### Hi there 👋
+![Profile View](https://komarev.com/ghpvc/?username=phamleduy04&style=flat-square)
 
-<!--
-**Butter3508/Butter3508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![My GitHub Lang Stats](https://github-stats.agentbot.xyz/api/top-langs/?username=phamleduy04&theme=tokyonight&layout=compact)
 
-Here are some ideas to get you started:
+![My GitHub Stats](https://github-stats.agentbot.xyz/api?username=phamleduy04&count_private=true&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GH Streaks](https://github-readme-streak-stats.herokuapp.com/?user=phamleduy04&theme=tokyonight&hide_border=false)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
+
+![wakapi](https://github-stats.agentbot.xyz/api/wakatime?username=phamleduy04&api_domain=wakatime.agentbot.xyz&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Weekly%20Stats&layout=compact)
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/phamleduy04.png)](https://tryhackme.com/p/phamleduy04)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
